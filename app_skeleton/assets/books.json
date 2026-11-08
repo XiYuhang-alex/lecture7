@@ -1,0 +1,22 @@
+[
+  {"id": 1, "title": "代码整洁之道", "author": "Robert C. Martin", "category": "科技", "cover": "https://picsum.photos/seed/book1/200/300", "description": "关于编写整洁代码的经典著作。", "borrowCount": 156, "rating": 4.7},
+  {"id": 2, "title": "算法导论", "author": "Thomas H. Cormen", "category": "科技", "cover": "https://picsum.photos/seed/book2/200/300", "description": "算法领域的权威教材。", "borrowCount": 120, "rating": 4.8},
+  {"id": 3, "title": "深入理解计算机系统", "author": "Randal E. Bryant", "category": "科技", "cover": "https://picsum.photos/seed/book3/200/300", "description": "从程序员视角理解计算机系统。", "borrowCount": 89, "rating": 4.6},
+  {"id": 4, "title": "设计模式", "author": "Erich Gamma", "category": "科技", "cover": "https://picsum.photos/seed/book4/200/300", "description": "面向对象设计模式的开山之作。", "borrowCount": 201, "rating": 4.5},
+  {"id": 5, "title": "重构", "author": "Martin Fowler", "category": "科技", "cover": "https://picsum.photos/seed/book5/200/300", "description": "改善既有代码的设计。", "borrowCount": 78, "rating": 4.4},
+  {"id": 6, "title": "Flutter实战", "author": "杜文", "category": "科技", "cover": "https://picsum.photos/seed/book6/200/300", "description": "Flutter 框架实战指南。", "borrowCount": 95, "rating": 4.3},
+  {"id": 7, "title": "Dart语言详解", "author": "Gilad Bracha", "category": "科技", "cover": "https://picsum.photos/seed/book7/200/300", "description": "Dart 语言权威指南。", "borrowCount": 67, "rating": 4.2},
+  {"id": 8, "title": "人工智能简史", "author": "Stuart Russell", "category": "科技", "cover": "https://picsum.photos/seed/book8/200/300", "description": "人工智能发展历程。", "borrowCount": 134, "rating": 4.1},
+  {"id": 9, "title": "机器学习", "author": "周志华", "category": "科技", "cover": "https://picsum.photos/seed/book9/200/300", "description": "机器学习经典教材。", "borrowCount": 178, "rating": 4.6},
+  {"id": 10, "title": "深度学习", "author": "Ian Goodfellow", "category": "科技", "cover": "https://picsum.photos/seed/book10/200/300", "description": "深度学习领域圣经。", "borrowCount": 145, "rating": 4.7},
+  {"id": 11, "title": "红楼梦", "author": "曹雪芹", "category": "文学", "cover": "https://picsum.photos/seed/book11/200/300", "description": "中国古典四大名著之首。", "borrowCount": 234, "rating": 4.9},
+  {"id": 12, "title": "西游记", "author": "吴承恩", "category": "文学", "cover": "https://picsum.photos/seed/book12/200/300", "description": "神魔小说的巅峰之作。", "borrowCount": 198, "rating": 4.8},
+  {"id": 13, "title": "三国演义", "author": "罗贯中", "category": "文学", "cover": "https://picsum.photos/seed/book13/200/300", "description": "历史演义小说的典范。", "borrowCount": 212, "rating": 4.8},
+  {"id": 14, "title": "水浒传", "author": "施耐庵", "category": "文学", "cover": "https://picsum.photos/seed/book14/200/300", "description": "英雄传奇的代表作。", "borrowCount": 167, "rating": 4.7},
+  {"id": 15, "title": "围城", "author": "钱钟书", "category": "文学", "cover": "https://picsum.photos/seed/book15/200/300", "description": "现代文学经典讽刺小说。", "borrowCount": 88, "rating": 4.5},
+  {"id": 16, "title": "万历十五年", "author": "黄仁宇", "category": "历史", "cover": "https://picsum.photos/seed/book16/200/300", "description": "大历史观的代表作。", "borrowCount": 76, "rating": 4.4},
+  {"id": 17, "title": "人类简史", "author": "尤瓦尔·赫拉利", "category": "历史", "cover": "https://picsum.photos/seed/book17/200/300", "description": "人类发展的宏观叙述。", "borrowCount": 245, "rating": 4.6},
+  {"id": 18, "title": "未来简史", "author": "尤瓦尔·赫拉利", "category": "历史", "cover": "https://picsum.photos/seed/book18/200/300", "description": "对未来人类命运的思考。", "borrowCount": 189, "rating": 4.5},
+  {"id": 19, "title": "今日简史", "author": "尤瓦尔·赫拉利", "category": "历史", "cover": "https://picsum.photos/seed/book19/200/300", "description": "对当下世界的观察。", "borrowCount": 132, "rating": 4.3},
+  {"id": 20, "title": "苏菲的世界", "author": "乔斯坦·贾德", "category": "哲学", "cover": "https://picsum.photos/seed/book20/200/300", "description": "哲学入门的经典之作。", "borrowCount": 111, "rating": 4.4}
+]
